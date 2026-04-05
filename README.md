@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-	<img src="./elements/giphy.gif" alt="Coding gif" style="width: 100%; max-width: 1000px; height: 320px; object-fit: cover; object-position: center;" />
+	<img src="./elements/giphy.gif" alt="Coding gif" width="100%" style="width: 100%; height: 320px; object-fit: cover; object-position: center center; display: block;" />
 </p>
 
 ---
